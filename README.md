@@ -2,6 +2,8 @@
 
 A playground for testing the dsh-superagent research prototype.
 
+Use this repository to exercise the workflow from an authorized change request to a human-reviewed pull request.
+
 ## Operating policy
 
 - GitHub agent account and authorized requester: `julyme1519`.
